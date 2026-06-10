@@ -1,0 +1,10 @@
+
+# Large Data Files (Too big for GitHub)
+311_data_Jan25.csv
+311_data_Jan25_edited.xlsx
+cleaned_311_data.csv
+taxi_service_complaints.csv
+311_data_with_categories.csv
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
